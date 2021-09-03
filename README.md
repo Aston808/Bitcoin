@@ -26,7 +26,7 @@
 
 **节点**
 
-- 《囤比特币：打造强节点》
+- [《囤比特币：打造强节点》](https://raw.githubusercontent.com/Aston808/Bitcoin/main/%E3%80%8A%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%8B%E6%89%93%E9%80%A0%E5%BC%BA%E8%8A%82%E7%82%B9.)
 - 《囤比特币：运行全节点》
 
 **ahr999指数**
