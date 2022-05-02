@@ -6,7 +6,7 @@
 
 **序章**
 
-- [《知之非难，行之不易》](obsidian://open?vault=Biao&file=%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%2F%E7%9F%A5%E4%B9%8B%E9%9D%9E%E9%9A%BE%EF%BC%8C%E8%A1%8C%E4%B9%8B%E4%B8%8D%E6%98%93)为什么我要写这个系列。
+- [《知之非难，行之不易》](https://github.com/Aston808/Bitcoin/blob/main/%E3%80%8A%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%8B%E7%9F%A5%E4%B9%8B%E9%9D%9E%E9%9A%BE%EF%BC%8C%E8%A1%8C%E4%B9%8B%E4%B8%8D%E6%98%93.md)为什么我要写这个系列。
 
 **入门**
 
