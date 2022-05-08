@@ -47,4 +47,4 @@
 
  - [《囤比特币：不忘初心》](https://raw.githubusercontent.com/Aston808/Bitcoin/main/%E3%80%8A%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%8B%E7%BB%88%E7%AB%A0%EF%BC%9A%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83.)
 
-*感谢中本聪，感谢 ahr999*
+**感谢中本聪，感谢 ahr999**
